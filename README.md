@@ -1,2 +1,3 @@
 # clock
-This is a symple embedded system program for C.It is a clock.
+This is a C program with the embedded system, the basic functions of the main alarm clock.
+
