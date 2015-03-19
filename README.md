@@ -1,3 +1,4 @@
 # clock
-This is a C program with the embedded system, the basic functions of the main alarm clock.
+This is an embedded system written in C language, mainly realize the basic function of the alarm clock. 
+
 
